@@ -1,0 +1,55 @@
+.main-button-container {
+  margin-top: 175px;
+  max-width: 610px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.timer-p {
+  margin-top: 40px;
+  font-size: 24px;
+}
+
+.start-button, .reset-button {
+  font-size: 24px;  
+}
+
+.start-button, .reset-button, .answer:hover {
+  background: aqua;
+  color: black;
+}
+
+.answer {
+  padding-top: 7px;
+  height: 45px;
+  color: black;
+  padding-left: 14px;
+  background-color: white;
+  border-radius: 4px;
+}
+
+.img-feedback {
+  margin-top: 40px;
+  border-radius: 35px;
+}
+
+.first-answer {
+  margin-top: 40px;
+}
+
+.reset-button {
+  margin-top: 40px;
+}
+
+.summary-correct {
+  margin-top: 40px;
+}
+
+body {
+  background-image: url("../images/stars.jpg");
+  color: white;
+}
+
+p {
+  font-size: 24px;
+}
